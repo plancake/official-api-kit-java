@@ -22,6 +22,13 @@ javac Example.java
 Please use the API reference for more details:
 http://www.plancake.com/api-documentation
 
+----------------------------------------------------------
+
+Please contact us if you need any commercial support with the installation of any component or if you would like any customization:
+http://www.plancake.com/contact
+
+Please consider contributing any bug fix fixes or improvements:
+http://www.plancake.com/contact
 
 Plancake homepage: http://www.plancake.com
 Support at: http://www.plancake.com/forums/forum/13/support-for-developers/
