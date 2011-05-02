@@ -9,7 +9,15 @@ With this library your custom client application will be able to interact with t
 In order to use this, you need to get an API key here:
 http://www.plancake.com/api-documentation
 
+
 To get started, have a look at the Example.java file and explore the public methods of the PlancakeApiClient class. 
+The package consists of a set of classes (belonging to the com.plancake.api.client and org.json.simple</span> packages) 
+and an example program that you can run by launching:
+java Example
+
+You can recompile the example program by launching:
+javac Example.java
+
 
 Please use the API reference for more details:
 http://www.plancake.com/api-documentation
