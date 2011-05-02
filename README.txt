@@ -6,7 +6,11 @@ This is a library that allows you to use the Plancake API without worrying about
 
 With this library your custom client application will be able to interact with the Plancake data stored in the cloud as if the data was stored locally.
 
-To get started, have a look at the Example.php file and explore of the public methods in the PlancakeApiClient class. 
+In order to use this, you need to get an API key here:
+http://www.plancake.com/api-documentation
+
+To get started, have a look at the Example.java file and explore the public methods of the PlancakeApiClient class. 
+
 Please use the API reference for more details:
 http://www.plancake.com/api-documentation
 
