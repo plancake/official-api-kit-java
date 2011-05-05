@@ -22,17 +22,24 @@ javac Example.java
 Please use the API reference for more details:
 http://www.plancake.com/api-documentation
 
-----------------------------------------------------------
+-----------------------------------------
+
+We love to hear from you ♥. Please, send us any feedback.
+Even if you don't speak English, don't worry, use your native language (we have great confidence in Google Translate :-))
+http://www.plancake.com/contact
 
 Please contact us if you need any commercial support with the installation of any component or if you would like any customization:
 http://www.plancake.com/contact
 
-Please consider contributing any bug fix fixes or improvements:
+Please consider contributing with bug fixes or improvements:
 http://www.plancake.com/contact
 
 Plancake homepage: http://www.plancake.com
 Support: http://www.plancake.com/forums/forum/13/support-for-developers/
-Donations: http://www.plancake.com/donate
+Donations ♥ : http://www.plancake.com/donate
 
 "Plancake" and "Plancake Team" are trademarks of Daniele Occhipinti.
 
+
+Happy plancaking! 
+The Plancake team
